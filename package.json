@@ -1,10 +1,11 @@
 {
-  "name": "jest-javascript-learning-1",
+  "name": "jest-javascript-learning-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "functions.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
